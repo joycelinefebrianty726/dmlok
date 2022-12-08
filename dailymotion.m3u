@@ -11,35 +11,14 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Intl" tvg-logo="" tvg-id="", Euronews Español
+#EXTINF:-1 group-title="Berita" tvg-logo="" tvg-id="", KOMPAS TV
+https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3LHzbtttIH6X_3eqgyRkWjxcqdGlu3TRChWGW8GwgIl)/dm/3/x6pz4sa/d/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="" tvg-id="", ANTV
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
-#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Libertad Digital
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+#EXTINF:-1 group-title="Berita" tvg-logo="" tvg-id="", METRO TV
+https://stream-03.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS-zLHmfSHYwfst1hgJkfERizwP6Y0iKIuoCm-wPKY0UA)/dm/3/x75p70w/d/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", BFM TV
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", La Chaîne L'Équipe
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", CNEWS
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Canal + Clair
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", RMC Story
-https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
-
-#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Franceinfo
+#EXTINF:-1 group-title="Berita" tvg-logo="" tvg-id="", TV ONE
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
