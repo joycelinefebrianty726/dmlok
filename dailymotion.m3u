@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="Berita" tvg-logo="" tvg-id="", KOMPAS TV
-https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G4MMwE-YQbg5SE7o3mAU0yVBZ6XMVS1fveATVl5okPPE)/dm/3/x6pz4sa/d/live-4.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G-iDQ8u5KwHiF-FrIAiXlYTTbhTnmcPTuU1sApusSMeu)/dm/3/x6pz4sa/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="" tvg-id="", ANTV
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
 
 #EXTINF:-1 group-title="Berita" tvg-logo="" tvg-id="", METRO TV
-https://stream-03.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_NTHJyBED9eEULGyyEl-nlKIPI1bbgBvYnUa80SnxVE)/dm/3/x75p70w/d/live-3.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSxnFexd_hRJeX61xbFifwMOlIO_5jjDSugEOWgCMRR5A)/dm/3/x75p70w/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="Berita" tvg-logo="" tvg-id="", TV ONE
 https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
