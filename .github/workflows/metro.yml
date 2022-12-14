@@ -32,8 +32,8 @@ jobs:
       - name: Main
         run: |
           pwd
-         chmod +x autorun.sh
-          ./autorun.sh	
+         chmod +x metro.sh
+          ./metro.sh	
           cd scripts
           python3 metro.py > ../metro.m3u8	  
           #python3 dailymotion_m3ugrabber.py "51.195.76.214:3128" > ../dailymotion-EU.m3u
