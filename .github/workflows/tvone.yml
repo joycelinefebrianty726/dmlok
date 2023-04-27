@@ -34,11 +34,9 @@ jobs:
           pwd
           chmod +x tvone.sh
           ./tvone.sh
-	  #cd scripts
+          #cd scripts
           #python3 tvone.py > ../tvone.m3u8
-          #python3 dailymotion_m3ugrabber.py "51.195.76.214:3128" > ../dailymotion-EU.m3u
-          #python3 dailymotion_m3ugrabber.py "128.199.202.122:3128" > ../dailymotion-SG.m3u
-          echo "Sudah"
+          echo "m3u grabbed"
         
       - name: git add
         run: |
@@ -47,5 +45,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "links have been updated"
+          git commit -m "links are updated"
           git push
