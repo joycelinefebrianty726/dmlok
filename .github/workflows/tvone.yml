@@ -36,7 +36,7 @@ jobs:
           ./tvone.sh
           #cd scripts
           #python3 tvone.py > ../tvone.m3u8
-          echo "m3u grabbed"
+          echo "sudah"
         
       - name: git add
         run: |
